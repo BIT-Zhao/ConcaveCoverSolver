@@ -1,0 +1,31 @@
+ PROBLEM SUMMARY
+   problem .......: Agen      
+   initial guesses: random    
+   nballs ........: 2
+   itrial ........: 1
+   kappa .........: 0.00
+   sigma1 ........: 0.00
+   sigma2 ........: 0.00
+   pol area ......: 1.0000000000000000D+00
+   pol perimeter..: 4.0000000000000000D+00
+
+ OPTIMIZATION SUMMARY
+   r ......:  5.5898952126949164D-01
+   csupn ..:  7.5481171313285245D-09
+   istop ..:  0
+   ierr ...:  0
+   itrial .:  1
+   #evalf .:  132
+   #evalg .:  305
+   #evalc .:  315
+   #evalj .:  305
+   #evalhl :  311
+   outiter :  21
+   totiter :  101
+   nwcalls :  21
+   nwtotit :  210
+   opt time:  0.36 seconds
+
+ BALLS (index, center abcissa, center ordinate)
+  1   7.5808347767528357D-11   2.4999999991258476D-01
+  2   1.3995240841772814D-11  -2.4999999998259423D-01
