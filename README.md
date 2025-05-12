@@ -47,7 +47,7 @@ HSL, website: https://licences.stfc.ac.uk/products/ In this project, LibHSL - 20
  
 (3) In .\modA_auto_generation\modA_autogen.m, select polygon data: load MIF_polygon_parameters.mat. Then run the program to generate the data file Agen.f90 after polygon split.
 
-(4)Replace the files with the same names in the TCP-solving toolbox's running path with those in the ./modified_files_in_bglcovering-main path.
+(4) Replace the files with the same names in the TCP-solving toolbox's running path with those in the ./modified_files_in_bglcovering-main path.
 
 (5) Replace the Agen.f90 file in the running path folder with the corresponding Agen.f90 file in (3).
 
